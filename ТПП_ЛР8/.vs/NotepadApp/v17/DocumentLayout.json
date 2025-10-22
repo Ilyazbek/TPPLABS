@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\notepadapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|solutionrelative:notepadapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|c:\\games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u043F\u043F\\\u0442\u043F\u043F_\u043B\u04408\\notepadapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|solutionrelative:notepadapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\notepadapp\\properties\\strings.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|solutionrelative:notepadapp\\properties\\strings.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\notepadapp\\properties\\strings.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2E3F6643-6173-464D-902B-A1EBA2185C3F}|NotepadApp\\NotepadApp.csproj|solutionrelative:notepadapp\\properties\\strings.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 390,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strings.en.resx",
+              "DocumentMoniker": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\Properties\\Strings.en.resx",
+              "RelativeDocumentMoniker": "NotepadApp\\Properties\\Strings.en.resx",
+              "ToolTip": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\Properties\\Strings.en.resx",
+              "RelativeToolTip": "NotepadApp\\Properties\\Strings.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-04T10:34:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Strings.ru.resx",
+              "DocumentMoniker": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\Properties\\Strings.ru.resx",
+              "RelativeDocumentMoniker": "NotepadApp\\Properties\\Strings.ru.resx",
+              "ToolTip": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\Properties\\Strings.ru.resx",
+              "RelativeToolTip": "NotepadApp\\Properties\\Strings.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-04T10:34:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NotepadApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\MainWindow.xaml",
+              "RelativeToolTip": "NotepadApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T10:22:49.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NotepadApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Games\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u041F\\\u0422\u041F\u041F_\u041B\u04208\\NotepadApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NotepadApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAmwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:22:49.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

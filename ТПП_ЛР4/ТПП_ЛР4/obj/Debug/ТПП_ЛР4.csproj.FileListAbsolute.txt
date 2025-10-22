@@ -1,0 +1,33 @@
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\bin\Debug\ТПП_ЛР4.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\bin\Debug\ТПП_ЛР4.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\bin\Debug\ТПП_ЛР4.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\bin\Debug\ТПП_ЛР4.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\bin\Debug\ТПП_ЛР4.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\bin\Debug\ТПП_ЛР4.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.csproj.AssemblyReference.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\MainWindow.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\App.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4_MarkupCompile.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4_MarkupCompile.lref
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\MainWindow.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.g.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.Properties.Resources.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.csproj.GenerateResource.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.csproj.CoreCompileInputs.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР4\ТПП_ЛР4\obj\Debug\ТПП_ЛР4.pdb

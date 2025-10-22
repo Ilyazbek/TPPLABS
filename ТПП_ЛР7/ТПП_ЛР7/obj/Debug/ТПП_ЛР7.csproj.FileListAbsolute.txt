@@ -1,0 +1,31 @@
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.AssemblyReference.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\App.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.lref
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.g.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.Properties.Resources.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.GenerateResource.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.CoreCompileInputs.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.pdb

@@ -1,0 +1,65 @@
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\AddressPage.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ContactDataPage.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\PersonalDataPage.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\AddressPage.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ContactDataPage.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\PersonalDataPage.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.pdb
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.exe.config
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.exe
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.pdb
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.exe.config
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\AddressPage.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ContactDataPage.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\PersonalDataPage.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\AddressPage.baml
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ContactDataPage.baml
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\PersonalDataPage.baml
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.g.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.exe
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\bin\Debug\ТПП_ЛР9.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.AssemblyReference.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\AddressPage.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ContactDataPage.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\MainWindow.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\PersonalDataPage.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\App.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9_MarkupCompile.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9_MarkupCompile.lref
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\AddressPage.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ContactDataPage.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\MainWindow.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\PersonalDataPage.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.g.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.Properties.Resources.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.GenerateResource.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.csproj.CoreCompileInputs.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР9\ТПП_ЛР9\obj\Debug\ТПП_ЛР9.pdb

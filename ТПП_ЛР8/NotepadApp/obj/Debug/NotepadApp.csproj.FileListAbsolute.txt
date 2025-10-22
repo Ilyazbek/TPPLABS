@@ -1,0 +1,90 @@
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\bin\Debug\en\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\bin\Debug\ru\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.en.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.ru.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\en\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\ru\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\bin\Debug\en\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\bin\Debug\ru\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.en.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.ru.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\en\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\ru\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР8\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\en\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\ru\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.exe.config
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.g.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.en.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.ru.resources
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\en\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\ru\NotepadApp.resources.dll
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\stepk\Desktop\УНИК\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\en\NotepadApp.resources.dll
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\bin\Debug\ru\NotepadApp.resources.dll
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.exe.config
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\MainWindow.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\App.g.cs
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp_MarkupCompile.lref
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\MainWindow.baml
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.g.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.en.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.Properties.Strings.ru.resources
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\en\NotepadApp.resources.dll
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\ru\NotepadApp.resources.dll
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Games\1 курс 2 семестр\ТПП\ТПП_ЛР8\NotepadApp\obj\Debug\NotepadApp.pdb

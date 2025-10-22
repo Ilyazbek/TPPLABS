@@ -1,0 +1,15 @@
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\bin\Debug\ТПП_ЛР1.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\bin\Debug\ТПП_ЛР1.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\bin\Debug\ТПП_ЛР1.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР1\ТПП_ЛР1\obj\Debug\ТПП_ЛР1.pdb
